@@ -7,3 +7,5 @@
 [03-SQL - ÖDEV 3](https://github.com/kemakinka/sql101/blob/main/003-SQL-ODEV3.md)
 
 [04-SQL - ÖDEV 4](https://github.com/kemakinka/sql101/blob/main/004-SQL-Odev4.md)
+
+[05-SQL - ÖDEV 5](https://github.com/kemakinka/sql101/blob/main/005-SQL-Odev5.md)
